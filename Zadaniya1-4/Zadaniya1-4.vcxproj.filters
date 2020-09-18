@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Task1">
+      <UniqueIdentifier>{9a8a83d8-97c9-4df7-8b7c-d30ff7ede144}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task2">
+      <UniqueIdentifier>{9e9e8855-d799-4dea-8d7a-eee2eb981275}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task3">
+      <UniqueIdentifier>{613fe189-7f28-4d95-8359-314669e64046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Task1">
+      <UniqueIdentifier>{ec9b7a3c-ecf5-4220-8746-baa169f9e6af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Task2">
+      <UniqueIdentifier>{366ad98c-880e-4b97-8ce8-e8ace2243865}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Task3">
+      <UniqueIdentifier>{0f879ecc-b4f8-4502-8522-978ca366d821}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Task4">
+      <UniqueIdentifier>{fb9e5371-152b-4c1f-a8a4-8d1ff6855a5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task4">
+      <UniqueIdentifier>{d51be47c-ac65-4bf6-a505-9d88677a9eaf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Cfrac.cpp">
+      <Filter>Исходные файлы\Task1</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpoint.cpp">
+      <Filter>Исходные файлы\Task1</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="menu1.cpp">
+      <Filter>Исходные файлы\Task1</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Cperson.cpp">
+      <Filter>Исходные файлы\Task2</Filter>
+    </ClCompile>
+    <ClCompile Include="Cstudent.cpp">
+      <Filter>Исходные файлы\Task2</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="menu2.cpp">
+      <Filter>Исходные файлы\Task2</Filter>
+    </ClCompile>
+    <ClCompile Include="Cstring.cpp">
+      <Filter>Исходные файлы\Task3</Filter>
+    </ClCompile>
+    <ClCompile Include="Сtimer.cpp">
+      <Filter>Исходные файлы\Task3</Filter>
+    </ClCompile>
+    <ClCompile Include="Сvector3.cpp">
+      <Filter>Исходные файлы\Task3</Filter>
+    </ClCompile>
+    <ClCompile Include="menu3.cpp">
+      <Filter>Исходные файлы\Task3</Filter>
+    </ClCompile>
+    <ClCompile Include="EnterMinSec.cpp">
+      <Filter>Исходные файлы\Task3</Filter>
+    </ClCompile>
+    <ClCompile Include="Ccomplex.cpp">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="menu4.cpp">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Includes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Cfrac.h">
+      <Filter>Файлы заголовков\Task1</Filter>
+    </ClInclude>
+    <ClInclude Include="CPoint.h">
+      <Filter>Файлы заголовков\Task1</Filter>
+    </ClInclude>
+    <ClInclude Include="Cstudent.h">
+      <Filter>Файлы заголовков\Task2</Filter>
+    </ClInclude>
+    <ClInclude Include="Cperson.h">
+      <Filter>Файлы заголовков\Task2</Filter>
+    </ClInclude>
+    <ClInclude Include="Cstring.h">
+      <Filter>Файлы заголовков\Task3</Filter>
+    </ClInclude>
+    <ClInclude Include="Сtimer.h">
+      <Filter>Файлы заголовков\Task3</Filter>
+    </ClInclude>
+    <ClInclude Include="Сvector3.h">
+      <Filter>Файлы заголовков\Task3</Filter>
+    </ClInclude>
+    <ClInclude Include="Ccomplex.h">
+      <Filter>Файлы заголовков\Task4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
